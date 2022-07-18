@@ -3,6 +3,8 @@ site_name: NLP-StackOverflow-Tags-Project
 # defeine TOC or order of website-
 nav:
   - Home: index.md
+  - Data-prep-stage: data_prep.md
+  - Featurization-stage: featurization.md
 
 site_author: Vijay Kumar Budatha
 site_description: >-
