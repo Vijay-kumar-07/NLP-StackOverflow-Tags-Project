@@ -1,5 +1,5 @@
 # Project information
-site_name: REPO_NAME_OR_SITE_NAME
+site_name: NLP-StackOverflow-Tags-Project
 # defeine TOC or order of website-
 nav:
   - Home: index.md
@@ -9,8 +9,8 @@ site_description: >-
   DESCRIPTION
 
 # Repository
-repo_name: Vijay-kumar-07/REPO_NAME
-repo_url: https://github.com/Vijay-kumar-07/REPO_NAME
+repo_name: Vijay-kumar-07/NLP-StackOverflow-Tags-Project
+repo_url: https://github.com/Vijay-kumar-07/NLP-StackOverflow-Tags-Project
 
 # Configuration
 theme:
